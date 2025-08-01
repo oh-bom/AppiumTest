@@ -1,0 +1,42 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Appium/Android 관련
+*.log
+*.apk
+*.keystore
+*.class
+.gradle/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Environment files
+.env
+
+# JUnit reports (optional)
+test-output/
+surefire-reports/
+
